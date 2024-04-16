@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ConsoleApp3": {
+      "commandName": "Project",
+      "commandLineArgs": "Rock Paper 3rd_Move 4th 5th"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
